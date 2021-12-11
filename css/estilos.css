@@ -1,6 +1,19 @@
 body{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    background-color: black;
-    color: blanchedalmond;
+    background-color: rgba(0, 0, 0, 0.822);
+    color: rgb(8, 223, 238);
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+#container{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: rgb(0, 255, 200) 2px dashed;
+    margin: 0 auto;
+}
+#container h1{
+    font-size: 20px;
 }
